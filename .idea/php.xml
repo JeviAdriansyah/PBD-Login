@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/composer" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/belajar-php-login/vendor/myclabs/deep-copy" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/belajar-php-login/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
